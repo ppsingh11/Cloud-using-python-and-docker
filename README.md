@@ -10,7 +10,7 @@ change the variable ip with server's ip address.
 # Software As a Service
 # Storage As a Service
 # Infrastructure As a Service
-# Plateform As a Service
+# Platform As a Service
 
 ###########################################################
 
